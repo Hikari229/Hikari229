@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @Hikari229
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning python and unity
-- 📫 How to reach me, milobeckerpos@gmail.com
